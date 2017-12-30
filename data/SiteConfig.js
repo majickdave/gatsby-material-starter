@@ -1,8 +1,8 @@
 module.exports = {
   blogPostDir: "sample-posts", // The name of directory that contains your posts.
-  siteTitle: "David Samuel's Blog", // Site title.
+  siteTitle: "David's Blog", // Site title.
   siteTitleAlt: "A blog site created with GatsbyJS by David Samuel", // Alternative site title for SEO.
-  siteLogo: "/logos/logo-1024.png", // Logo used for SEO and manifest.
+  siteLogo: "/logos/logo-512.png", // Logo used for SEO and manifest.
   siteUrl: "https://www.davidsamuel.me", // Domain of your website without pathPrefix.
   pathPrefix: "/", // Prefixes all links. For cases when deployed to example.github.io/gatsby-material-starter/.
   fixedFooter: false, // Whether the footer component is fixed, i.e. always visible

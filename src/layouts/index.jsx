@@ -17,7 +17,7 @@ export default class MainLayout extends React.Component {
       .replace("/", "");
     let title = "";
     if (currentPath === "") {
-      title = "Home";
+      title = "blog home";
     } else if (currentPath === "tags") {
       title = "Tags";
     } else if (currentPath === "categories") {
