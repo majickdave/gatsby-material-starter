@@ -1,6 +1,6 @@
 ---
 title: "majicDave's first blog post"
-cover: "https://picsum.photos/200/300/?random"
+cover: "https://picsum.photos/600/900/?random"
 date: "29/12/2017"
 category: "tech"
 tags:
