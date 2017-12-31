@@ -1,6 +1,6 @@
 ---
 title: "I created my first SVG drawing"
-cover: "https://www.dropbox.com/s/weq6jubnq1uwo0g/dave-symbol4.svg?raw=1"
+cover: "https://www.dropbox.com/s/ftz4niz7j4zatnt/dave-symbol-large.png?raw=1"
 date: "30/12/2017"
 category: "design"
 tags:
@@ -17,7 +17,7 @@ tags:
 <div style="margin: auto; width: 50%; padding: 10px">
   <table class="image">
     <caption align="bottom">My new icon — made with Google Drawings</caption>
-    <tr ><img style="align: center;" src="https://www.dropbox.com/s/weq6jubnq1uwo0g/dave-symbol4.svg?raw=1" alt="My new icon — made with Google Drawings"/></tr>
+    <tr ><img style="align: center;" src="https://www.dropbox.com/s/ftz4niz7j4zatnt/dave-symbol-large.png?raw=1" alt="My new icon — made with Google Drawings"/></tr>
   </table>
 </div>
 
@@ -36,6 +36,5 @@ This strange, eyeball-like design was conceived shortly after returning from a s
 Check out the live video of <a href="https://soundcloud.com/random-rab"><i class="fa fa-soundcloud"></i> Random Rab</a> Below:
 
 
-```no-highlight
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/AOgXnX8zeAQ" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
-```
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AOgXnX8zeAQ" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
