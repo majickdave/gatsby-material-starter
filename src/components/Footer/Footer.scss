@@ -45,9 +45,12 @@
         }
 
         h4 {
-            color: $md-secondary-color;
+            color: $md-tertiary-color;
             text-align: center;
             margin: 0;
+        }
+        a {
+          color: $md-secondary-color;
         }
     }
 }

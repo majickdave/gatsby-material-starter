@@ -24,13 +24,13 @@ class Footer extends Component {
             </h4>
           </div>
 
-          <div className="rss">
+          {/* <div className="rss">
             <Link to={url}>
               <Button flat secondary iconClassName="fa fa-rss">
                 Subscribe
               </Button>
             </Link>
-          </div>
+          </div> */}
           <div className="based-on">
             <h4>
               Based on{" "}

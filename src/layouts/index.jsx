@@ -15,9 +15,10 @@ export default class MainLayout extends React.Component {
     const currentPath = this.props.location.pathname
       .replace(pathPrefix, "")
       .replace("/", "");
-    let title = "";
+    let url = "David Samuel's Blog"
+    let title = "David Samuel's Blog";
     if (currentPath === "") {
-      title = "blog home";
+      title = "David Samuel's Blog";
     } else if (currentPath === "tags") {
       title = "Tags";
     } else if (currentPath === "categories") {
