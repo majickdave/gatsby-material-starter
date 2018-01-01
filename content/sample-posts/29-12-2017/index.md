@@ -1,6 +1,6 @@
 ---
 title: "Gatsby JS and Material Design"
-cover: "https://storage.googleapis.com/material-design/publish/material_v_12/assets/0B7WCemMG6e0VVFpiZ041SmhwY2c/what-is-material-environment.png"
+cover: "/images/material-design.png"
 date: "29/12/2017"
 category: "tech"
 tags:

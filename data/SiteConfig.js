@@ -2,7 +2,7 @@ module.exports = {
   blogPostDir: "sample-posts", // The name of directory that contains your posts.
   siteTitle: "David's Blog", // Site title.
   siteTitleAlt: "A blog site created with GatsbyJS by David Samuel", // Alternative site title for SEO.
-  siteLogo: "/logos/logo-512.png", // Logo used for SEO and manifest.
+  siteLogo: "/logos/dave-symbol4.svg", // Logo used for SEO and manifest.
   siteUrl: "https://www.davidsamuel.me", // Domain of your website without pathPrefix.
   pathPrefix: "/", // Prefixes all links. For cases when deployed to example.github.io/gatsby-material-starter/.
   fixedFooter: false, // Whether the footer component is fixed, i.e. always visible
@@ -15,7 +15,7 @@ module.exports = {
   userName: "majickdave", // Username to display in the author segment.
   userTwitter: "majickdave", // Optionally renders "Follow Me" in the UserInfo segment.
   userLocation: "Los Angeles, California, USA", // User location to display in the author segment.
-  userAvatar: "https://www.dropbox.com/s/u7egnn54iznzp61/me_avatar_small.png?raw=1", // User avatar to display in the author segment.
+  userAvatar: "/logos/avatar.png", // User avatar to display in the author segment.
   userDescription:
     "Data Scientist, and technology nerd", // User description to display in the author segment.
   // Links to social profiles/projects you want to display in the author segment/navigation bar.

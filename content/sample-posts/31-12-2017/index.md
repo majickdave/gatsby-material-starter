@@ -1,6 +1,6 @@
 ---
 title: "I created my first SVG drawing"
-cover: "/logos/dave-symbol4.svg"
+cover: "https://www.dropbox.com/s/ftz4niz7j4zatnt/dave-symbol-large.png?raw=1"
 date: "30/12/2017"
 category: "design"
 tags:
@@ -14,18 +14,12 @@ tags:
 # Last night I drew an SVG icon
 ## It was easy and Free.
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/html1/DTD/xhtml1-strict.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-us">
-<body>
-<div style="margin: auto; width: 67%; padding: 10px">
+<div style="margin: auto; width: 50%; padding: 10px">
   <table class="image">
     <caption align="bottom">My new icon — made with Google Drawings</caption>
-    <tr ><svg style="align: center;" src="https://davidsamuel.me/logos/dave-symbol4.svg" alt="My new icon — made with Google Drawings"/></tr>
+    <tr ><img style="align: center;" src="https://www.dropbox.com/s/ftz4niz7j4zatnt/dave-symbol-large.png?raw=1" alt="My new icon — made with Google Drawings"/></tr>
   </table>
 </div>
-</body>
-</html>
-
 
 
 I made this icon using <a href="https://docs.google.com/drawings/"><i class="fa fa-google"></i>oogle Drawings</a> one night at 3:00 am looking for some cool content for my site. It is damn near impossible to get a good free drawing program in a browser; or design anything really cool without Adobe software. I hope with web browser advancements everyone in the world will have access to all the creative tools they need for free in the future
@@ -39,7 +33,7 @@ This strange, eyeball-like design was conceived shortly after returning from a s
 
 <p style="text-align: center"><i>Down Rooted HipHop Track from MC Yogi</i></p>
 
-### Check out the live video of <a href="https://soundcloud.com/random-rab"><i class="fa fa-soundcloud"></i> Random Rab</a> Below:
+Check out the live video of <a href="https://soundcloud.com/random-rab"><i class="fa fa-soundcloud"></i> Random Rab</a> Below:
 
 
 
