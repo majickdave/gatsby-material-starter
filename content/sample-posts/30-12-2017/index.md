@@ -14,17 +14,14 @@ tags:
 # Last night I drew an SVG icon
 ## It was easy and Free.
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/html1/DTD/xhtml1-strict.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-us">
-<body>
+
 <div style="margin: auto; width: 67%; padding: 10px">
   <table class="image">
     <caption align="bottom">My new icon — made with Google Drawings</caption>
-    <tr ><svg style="align: center;" src="https://davidsamuel.me/logos/dave-symbol4.svg" alt="My new icon — made with Google Drawings"/></tr>
+    <tr ><img style="align: center;" src="https://www.dropbox.com/s/k9v7gpp2xo40c99/perfect.png?raw=1" alt="My new icon — made with Google Drawings"/></tr>
   </table>
 </div>
-</body>
-</html>
+
 
 
 
