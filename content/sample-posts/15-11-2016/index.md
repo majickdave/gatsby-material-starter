@@ -1,7 +1,7 @@
 ---
 title: "Using Sci-Kit Learn to train a Digit Classifier"
 cover: "/logos/Tensorflow_logo.svg"
-date: "15/11/2015"
+date: "15/11/2016"
 category: "Data Science"
 tags:
 - Data Science

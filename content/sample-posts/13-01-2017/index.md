@@ -1,7 +1,7 @@
 ---
 title: "How to build a Movie Recommendation Engine"
 cover: "/logos/N-icon.png"
-date: "13/01/2016"
+date: "13/01/2017"
 category: "Data Science"
 tags:
 - Data Science
