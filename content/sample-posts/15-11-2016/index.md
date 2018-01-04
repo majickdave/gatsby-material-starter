@@ -11,11 +11,17 @@ tags:
 
 # This Notebook explores the mysterious, NIST handwritten digits dataset
 
+---
+
 
 ![alt](scikit-learn-logo.png)
-<div style="text-align: center;">
-  <small > This Project uses   <a href="https://scikit-learn.org/stable/">SK-Learn</a>, a python module </small>
-</div>
+<div style="margin: auto; width: 67%; padding: 10px">
+  <table>
+    <caption align="bottom">This Project uses   <a href="https://scikit-learn.org/stable/">SK-Learn</a>, a python module </caption>
+  </table>
+</div
+
+---
 
 Tensorflow, Google's deep learning framework, is built on work done in sklearn and opencv
 

@@ -14,11 +14,10 @@ tags:
 # Last night I drew an SVG icon
 ## It was easy and Free.
 
-
+![alt](logo.png)
 <div style="margin: auto; width: 67%; padding: 10px">
-  <table class="image">
+  <table>
     <caption align="bottom">My new icon — made with Google Drawings</caption>
-    <tr ><img style="align: center;" src="https://www.dropbox.com/s/k9v7gpp2xo40c99/perfect.png?raw=1" alt="My new icon — made with Google Drawings"/></tr>
   </table>
 </div>
 
@@ -36,7 +35,7 @@ This strange, eyeball-like design was conceived shortly after returning from a s
 
 <p style="text-align: center"><i>Down Rooted HipHop Track from MC Yogi</i></p>
 
-Check out the live video of <a href="https://soundcloud.com/random-rab"><i class="fa fa-soundcloud"></i> Random Rab</a> below: 
+Check out the live video of <a href="https://soundcloud.com/random-rab"><i class="fa fa-soundcloud"></i> Random Rab</a> below:
 
 
 

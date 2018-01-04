@@ -10,13 +10,13 @@ tags:
 ---
 
 ![alt](turi.svg)
-<div style="text-align: center;">
-  <a href="https://turi.com/">
-  <small > This Project uses   Turi, FKA Graphlab  </small>
-  </a>
-</div>
+<div style="margin: auto; width: 67%; padding: 10px">
+  <table>
+    <caption align="bottom">This Project uses <a href="https://turi.com/">Turi, FKA Graphlab</a></caption>
+  </table>
+</div
 
-
+---
 
 ## Netflix built it's empire with recommender systems
 

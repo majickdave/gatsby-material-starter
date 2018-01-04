@@ -9,13 +9,17 @@ tags:
 - Python
 ---
 
-# Wifi location using signal strength
+# Wifi location using signal strength using:
 
 
 ![alt](logo-stack-python.png)
-<div style="text-align: center;">
-  <small > This Project uses   <a href="https://pandas.pydata.org/">Pandas</a>, a python module </small>
-</div>
+<div style="margin: auto; width: 67%; padding: 10px">
+  <table>
+    <caption align="bottom">This Project uses <a href="https://pandas.pydata.org/">Pandas</a>, a python module</a></caption>
+  </table>
+</div
+
+---
 
 This notebook demonstrates the power of data science for analyzing real-time wifi locations
 You can download it on github here:
