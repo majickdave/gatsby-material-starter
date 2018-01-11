@@ -36,5 +36,5 @@ module.exports = {
       iconClassName: "fa fa-linkedin"
     }
   ],
-  copyright: "Copyright © 2017. David Samuel" // Copyright string for the footer of the website and RSS feed.
+  copyright: "Copyright © 2018. David Samuel" // Copyright string for the footer of the website and RSS feed.
 };
